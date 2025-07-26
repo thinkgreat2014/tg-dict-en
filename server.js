@@ -55,15 +55,12 @@ function sendSentences() {
 
   const message = lines
     .map((line, index) => {
-      const humanIndex = index + 1; // 1 tabanlı numara
-      // 1,4,7... satırları bold yap
-      const text = (humanIndex % 3 === 1) ? `*${line}*` : line;
-      return text;
+      const humanIndex = index + 1; // 1 tabanlı
+      return (humanIndex % 2 === 1) ? `*${line}*` : line; // 1,3,5...
     })
-    // Her iki satırdan sonra boş satır ekle
     .reduce((acc, line, idx) => {
       acc.push(line);
-      if ((idx + 1) % 2 === 0) acc.push(''); // her 2 satırda bir boş satır
+      if ((idx + 1) % 2 === 0) acc.push(''); // her 2 satırdan sonra boş satır
       return acc;
     }, [])
     .join('\n');
