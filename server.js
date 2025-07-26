@@ -55,15 +55,24 @@ function sendSentences() {
 
   const message = lines
     .map((line, index) => {
-      // index 0 tabanlı, yani (0, 1, 2...) -> insan gözüyle (1, 2, 3...)
-      return (index % 2 === 0) ? `*${line}*` : line;
+      const humanIndex = index + 1; // 1 tabanlı numara
+      // 1,4,7... satırları bold yap
+      const text = (humanIndex % 3 === 1) ? `*${line}*` : line;
+      return text;
     })
+    // Her iki satırdan sonra boş satır ekle
+    .reduce((acc, line, idx) => {
+      acc.push(line);
+      if ((idx + 1) % 2 === 0) acc.push(''); // her 2 satırda bir boş satır
+      return acc;
+    }, [])
     .join('\n');
 
   bot.sendMessage(CHANNEL_ID, message, { parse_mode: 'Markdown' })
     .then(() => console.log('Mesaj gönderildi:', new Date().toLocaleString()))
     .catch(err => console.error('Telegram send error:', err.message));
 }
+
 
 // ✅ Sunucu başlatıldığında verileri yükle
 sentences = loadSentences();
