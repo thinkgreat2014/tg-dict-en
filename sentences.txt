@@ -1,321 +1,3 @@
-later – sonra
-“I’ll finish it later.” – “Mən bunu sonra bitirəcəyəm.”
-community – icma
-“Our community is very tight knit.” – “Bizim icmamız çox bağlıdır.”
-much – çox
-“There’s so much to learn in the English language.” – “İngilis dilində öyrəniləcək çox şey var.”
-name – ad
-“What’s your name?” – “Adınız nədir?”
-five – beş
-“I can give you five reasons why you need to watch that video.” – “Bu videoya niyə baxmalı olduğunuz barədə beş səbəb verə bilərəm.”
-once – bir dəfə
-“I once had a puppy named Bark.” – “Bir dəfə Bark adlı bir balam var idi.”
-white – ağ
-“I love my white sneakers.” – “Ağ idman ayaqqabılarımı sevirəm.”
-least – ən azı
-“She’s the least productive among all the employees.” – “O, bütün işçilər arasında ən az məhsuldar olanıdır.”
-president – prezident
-“She was our class president back in high school.” – “O, orta məktəbdə sinif prezidentimiz idi.”
-learn – öyrənmək
-“I’d love to learn more about the English language.” – “İngilis dili haqqında daha çox öyrənmək istərdim.”
-real – həqiqi
-“What is her real name?” – “Onun həqiqi adı nədir?”
-change – dəyişmək
-“What can we change so that things will get better?” – “İşlər daha yaxşı olması üçün nəyi dəyişə bilərik?”
-team – komanda
-“They hired a team to do the design of their new office.” – “Yeni ofislərinin dizaynını etmək üçün bir komanda işə götürdülər.”
-minute – dəqiqə
-“She’s laughing every minute of every day.” – “O, hər gün hər dəqiqə gülür.”
-best – ən yaxşı
-“This is the best potato salad I’ve ever tasted.” – “Bu, dadına baxdığım ən yaxşı kartof salatıdır.”
-several – bir neçə
-“I have several old clothes I need to donate.” – “Bağışlamaq üçün bir neçə köhnə paltarım var.”
-idea – fikir
-“It was your idea to go to the beach remember?” – “Çimərliyə getmək sənin fikrin idi, xatırlayırsanmı?”
-kid – uşaq
-“I loved that toy when I was a kid.” – “Uşaq ikən bu oyuncağı çox sevirdim.”
-body – bədən
-“She worked out hard to achieve a toned body.” – “O, tonlu bədən əldə etmək üçün çox çalışdı.”
-information – məlumat
-“This is the information I need.” – “Bu, mənim ehtiyacım olan məlumatdır.”
-nothing – heç nə
-“There’s nothing we can do now.” – “İndi edə biləcəyimiz heç nə yoxdur.”
-ago – əvvəl
-“Three years ago I visited Japan for the first time.” – “Üç il əvvəl Yaponiyaya ilk dəfə ziyarət etdim.”
-right – doğru
-“You’re right I want to go back there.” – “Haqlısan, mən ora qayıtmaq istəyirəm.”
-lead – aparmaq
-“Just lead the way and I’ll follow.” – “Yolu göstər, mən izləyəcəm.”
-social – sosial
-“I feel awkward in these social gatherings.” – “Bu sosial toplantılarda özümü qəribə hiss edirəm.”
-understand – başa düşmək
-“I understand how you feel.” – “Sənin necə hiss etdiyini başa düşürəm.”
-whether – istər
-“Whether in big groups or small groups I always feel a little shy at first.” – “Böyük qruplarda və ya kiçik qruplarda olsam da, əvvəlcə həmişə bir az utancaq oluram.”
-back – geri
-“Looking back I knew I was always an introvert.” – “Geri baxanda həmişə introvert olduğumu bilirdim.”
-watch – izləmək
-“Let’s watch the sun set on the horizon.” – “Gəlin günəşin üfüqdə batmasını izləyək.”
-together – birlikdə
-“They’re together now.” – “Onlar indi birlikdədirlər.”
-follow – izləmək
-“I’ll follow you home.” – “Mən səni evə izləyəcəm.”
-around - ətrafında
-“You’ll always have me around.” - “Sən həmişə məni ətrafında görəcəksən.”
-parent - valideyn
-“Every parent is trying hard and doing their best.” - “Hər bir valideyn əlindən gələni edir.”
-only - yalnız
-“You are only allowed to go out today.” - “Sən bu gün yalnız çölə çıxa bilərsən.”
-stop - dayanmaq
-“Please stop that.” - “Zəhmət olmasa, onu dayandır.”
-face - üz
-“Why is your face so red?” - “Niyə üzün belə qırmızıdır?”
-anything - hər şey
-“You can ask me for anything.” - “Məndən hər şeyi soruşa bilərsən.”
-create - yaratmaq
-“Did you create that presentation? It was so good.” - “Bu təqdimatı sən yaratdın? Çox yaxşı idi.”
-public - ictimai
-“This is public property.” - “Bu, ictimai mülkiyyətdir.”
-already - artıq
-“I already asked him to resend his report.” - “Artıq ondan hesabatını yenidən göndərməsini xahiş etmişəm.”
-speak - danışmaq
-“Could you speak a little louder?” - “Bir az yüksək səslə danışa bilərsən?”
-others - başqaları
-“The others haven’t arrived yet.” - “Başqaları hələ gəlməyib.”
-read - oxumaq
-“I read somewhere that this house is haunted.” - “Bir yerdə oxudum ki, bu evdə cinlər var.”
-level - səviyyə
-“What level are you in that game?” - “O oyunda hansı səviyyədəsən?”
-allow - icazə vermək
-“Do you allow your kids to play outside the house?” - “Uşaqlarınıza evin kənarında oynamağa icazə verirsiniz?”
-add - əlavə etmək
-“Is it okay if we add a bit of sugar to the tea?” - “Çaya bir az şəkər əlavə etsək, olar?”
-office - ofis
-“Welcome to my office.” - “Ofisimə xoş gəldiniz.”
-spend - xərcləmək
-“How much did you spend on your last shopping spree?” - “Son alış-verişinizə nə qədər pul xərclədiniz?”
-door - qapı
-“You left the door open.” - “Qapını açıq qoymusunuz.”
-health - sağlamlıq
-“You must take good care of your health.” - “Sağlamlığınıza yaxşı baxmalısınız.”
-person - şəxs
-“You are a good person.” - “Sən yaxşı bir şəxsən.”
-art - incəsənət
-“This is my work of art.” - “Bu, mənim incəsənət əsərimdir.”
-sure - əmin
-“Are you sure you want to do this alone?” - “Bunu tək etmək istədiyinizə əminsiniz?”
-such - belə
-“You are such a brave little boy.” - “Sən belə cəsur bir kiçik oğlansan.”
-war - müharibə
-“The war has finally ended.” - “Nəhayət, müharibə sona çatdı.”
-history - tarix
-“She is my history professor.” - “O, mənim tarix müəllimimdir.”
-party - partiya
-“Are you going to her party tonight?” - “Bu gecə onun partiyasına gedirsən?”
-within - daxilində
-“We support everyone within our small community.” - “Biz kiçik icmamız daxilində hər kəsi dəstəkləyirik.”
-grow - böyümək
-“We want everyone to grow and thrive in their careers.” - “Hər kəsin karyeralarında böyüməsini və inkişaf etməsini istəyirik.”
-result - nəticə
-“The result of this outreach program is amazing.” - “Bu tədbir proqramının nəticəsi möhtəşəmdir.”
-open - açıq
-“Are you open to teaching on weekends?” - “Həftə sonlarında dərs deməyə açıqmısınız?”
-change - dəyişmək
-“Where can we change her diaper?” - “Onun bezini harada dəyişə bilərik?”
-morning - səhər
-“It’s such a beautiful morning!” - “Çox gözəl bir səhərdir!”
-walk - gəzmək
-“Come take a walk with me.” - “Gəl mənimlə gəzməyə çıx.”
-reason - səbəb
-“You are the reason I came home.” - “Evimə gəlməyimin səbəbi sənsən.”
-low - aşağı
-“Her blood pressure has gotten really low.” - “Onun qan təzyiqi çox aşağı düşüb.”
-win - qazanmaq
-“We can win this match if we work together.” - “Birlikdə işləsək, bu matçı qazana bilərik.”
-research - tədqiqat
-“How is your research going?” - “Tədqiqatınız necə gedir?”
-girl - qız
-“That girl is in my class.” - “O qız mənim sinifimdedir.”
-guy - oğlan
-“I’ve seen that guy in school before.” - “O oğlanı məktəbdə görmüşəm.”
-early - erkən
-“I come to work so early every day.” - “Hər gün işə çox erkən gəlirəm.”
-food - qida
-“Let’s buy some food I’m hungry!” - “Gəl bir az qida alaq, acmışam!”
-before - əvvəl
-“Can I talk to you before you go home?” - “Evə getməzdən əvvəl səninlə danışa bilərəm?”
-moment - an
-“The moment she walked in the room her puppy started to jump and dance again.” - “O, otağa girən an, onun balaca iti yenidən tullanmağa və rəqs etməyə başladı.”
-himself - özü
-“He cooked this Turkey himself.” - “Bu hinduşkanı özü bişirdi.”
-air - hava
-“I am loving the cold night air here.” - “Burada soyuq gecə havasını sevirəm.”
-teacher - müəllim
-“You are the best teacher ever.” - “Sən indiyə qədər ən yaxşı müəllimsən.”
-force - məcbur etmək
-“Don’t force him to play with other kids.” - “Onu digər uşaqlarla oynamağa məcbur etmə.”
-offer - təklif etmək
-“Can I offer you a ride home?” - “Sizə evə getmək üçün maşın təklif edə bilərəm?”
-enough - kifayət
-“Boys that’s enough playing for today.” - “Oğlanlar, bu gün üçün kifayətdir.”
-both - hər ikisi
-“You both need to change into your sleep clothes now.” - “Hər ikiniz yatmaq üçün paltarlarınızı dəyişməlisiniz.”
-education - təhsil
-“I just want you to get the best education.” - “Sadəcə sizin ən yaxşı təhsili almanızı istəyirəm.”
-across - qarşısında
-“Your dog ran across the park.” - “Sənin itin parkın qarşısında qaçdı.”
-although - baxmayaraq ki
-“Although she felt tired she still couldn’t sleep.” - “Yorğun olmasına baxmayaraq, hələ də yata bilmədi.”
-remember - xatırlamaq
-“Do you think she will still remember me after ten years?” - “Onun on ildən sonra məni hələ də xatırlayacağını düşünürsən?”
-foot - ayaq
-“Her foot got caught in one of the ropes.” - “Onun ayağı iplərdən birinə ilişdi.”
-second - ikinci
-“This is the second time she got late this month.” - “Bu ay ikinci dəfə gecikib.”
-boy - oğlan
-“There’s a boy in her class who keeps pulling her hair.” - “Onun sinifində saçını çəkən bir oğlan var.”
-maybe - bəlkə
-“Maybe we can have ice cream for dessert.” - “Bəlkə desert üçün dondurma yeyərik.”
-toward - tərəfə
-“He took a step toward her.” - “O, ona tərəf bir addım atdı.”
-able - bacarığı olmaq
-“Will you be able to send me your report today?” - “Bu gün mənə hesabatını göndərə biləcəksənmi?”
-age - yaş
-“What is the average marrying age these days?” - “Bu günlərdə ortalama evlənmə yaşı nə qədərdir?”
-off - kənara
-“The cat ran off with the dog.” - “Pişik it ilə kənara qaçdı.”
-policy - siyasət
-“They have a generous return policy.” - “Onların səxavətli qaytarma siyasəti var.”
-everything - hər şey
-“Everything is on sale.” - “Hər şey satışdadır.”
-love - sevgi
-“I love what you’re wearing!” - “Geyindiyinizi çox sevirəm!”
-process - proses
-“Wait give me time to process everything you’re telling me.” - “Gözləyin, dediklərinizi işləmək üçün mənə vaxt verin.”
-music - musiqi
-“I love music.” - “Mən musiqini sevirəm.”
-including - daxil olmaqla
-“Around 20 people attended including Bob and Beth.” - “Bob və Beth daxil olmaqla təxminən 20 nəfər iştirak etdi.”
-consider - nəzərə almaq
-“I hope you consider my project proposal.” - “Ümid edirəm layihə təklifimi nəzərə alırsınız.”
-appear - görünmək
-“How did that appear out of nowhere?” - “Bu heç yerdən necə göründü?”
-actually - əslində
-“I’m actually just heading out.” - “Əslində mən indi çıxıram.”
-buy - almaq
-“I’m going to buy these shoes.” - “Bu ayaqqabıları alacam.”
-probably - yəqin
-“He’s probably still asleep.” - “Yəqin ki, hələ də yatır.”
-human - insan
-“Give him a break he is only human.” - “Ona fasilə verin, o yalnız insandır.”
-wait - gözləmək
-“Is it alright if you wait for a few minutes?” - “Bir neçə dəqiqə gözləsəniz, problem olmaz?”
-serve - xidmət etmək
-“This blow dryer has served me well for years.” - “Bu fen illərdir mənə yaxşı xidmət edir.”
-market - bazar
-“Let’s visit the Sunday market.” - “Gəlin bazar günü bazarına gedək.”
-die - ölmək
-“I don’t want my cat to die let’s take him to the vet please.” - “Mənim pişiyim ölməsini istəmirəm, xahiş edirəm onu baytara aparaq.”
-send - göndərmək
-“Please send the package to my address.” - “Paketimi mənim ünvanıma göndərin, zəhmət olmasa.”
-expect - gözləmək
-“You can’t expect much from their poor service.” - “Onların zəif xidmətindən çox şey gözləmək olmaz.”
-home - ev
-“I can’t wait to go home!” - “Evdən çıxmağı səbirsizliklə gözləyirəm!”
-sense - hiss etmək
-“I did sense that something was not okay.” - “Bir şeyin qaydasında olmadığını hiss etdim.”
-build - tikmək
-“He is going to build his dream house.” - “O, arzu evini tikmək niyyətindədir.”
-stay - qalmaq
-“You can stay with me for a few weeks.” - “Bir neçə həftə mənimlə qala bilərsən.”
-fall - yıxılmaq
-“Be careful you might fall.” - “Ehtiyatlı ol, yıxıla bilərsən.”
-oh - oh
-“Oh no I left my phone at home!” - “Oh yox, telefonumu evdə unutmuşam!”
-nation - millət
-“We have to act as one nation.” - “Bir millət kimi hərəkət etməliyik.”
-plan - plan
-“What’s your plan this time?” - “Bu dəfə planın nədir?”
-cut - kəsmək
-“Don’t cut your hair.” - “Saçlarını kəsmə.”
-college - kollec
-“We met in college.” - “Biz kollec-də tanış olduq.”
-interest - maraq
-“Music is an interest of mine.” - “Musiqi mənim maraqlarımdandır.”
-death - ölüm
-“Death is such a heavy topic for me.” - “Ölüm mənim üçün çox ağır mövzudur.”
-course - kurs
-“What course did you take up in college?” - “Kollec-də hansı kursu götürdün?”
-someone - kimsə
-“Is there someone who can go with you?” - “Səninlə gedə biləcək kimsə varmı?”
-experience - təcrübə
-“What an exciting experience!” - “Nə qədər həyəcanverici təcrübədir!”
-behind - arxasında
-“I’m scared to check what’s behind that door.” - “O qapının arxasında nə olduğunu yoxlamaqdan qorxuram.”
-reach - çatmaq
-“I can’t reach him he won’t answer his phone.” - “Ona çatmıram, telefonuna cavab vermir.”
-local - yerli
-“This is a local business.” - “Bu yerli bir işdir.”
-kill - öldürmək
-“Smoking can kill you.” - “Siqaret çəkmək səni öldürə bilər.”
-six - altı
-“I have six books about Psychology.” - “Psixologiya haqqında altı kitabım var.”
-remain - qalmaq
-“These remain on the top shelf.” - “Bunlar üst rəfdə qalır.”
-effect - təsir
-“Wow the effect of that mascara is great!” - “Vay, o tuşun təsiri əladır!”
-use - istifadə etmək
-“Can I use your phone?” - “Telefonundan istifadə edə bilərəmmi?”
-yeah - hə
-“Yeah he did call me earlier.” - “Hə, o mənə əvvəl zəng etmişdi.”
-suggest - təklif etmək
-“He did suggest that to me.” - “O, bunu mənə təklif etdi.”
-class - sinif
-“We were in the same English class.” - “Biz eyni ingilis dili sinifində idik.”
-control - nəzarət
-“Where’s the remote control?” - “Uzaqdan idarəetmə haradadır?”
-raise - tərbiyə etmək
-“It’s so challenging to discipline kids these days.” - “Bu günlərdə uşaqları tərbiyə etmək çox çətindir.”
-care - qayğı göstərmək
-“I don’t care about what you think.” - “Sənin nə düşündüyün mənə maraqlı deyil.”
-perhaps - bəlkə
-“Perhaps we can arrive at a compromise.” - “Bəlkə bir güzəştə gələ bilərik.”
-little - az
-“There’s a little bird outside my window.” - “Pəncərəmin kənarında az bir quş var.”
-late - gec
-“I am running late for my doctor’s appointment.” - “Həkim görüşümə gecikmişəm.”
-hard - çətin
-“That test was so hard.” - “O test çox çətin idi.”
-field - sahə
-“He’s over there by the soccer field.” - “O, futbol sahəsinin yanında oradadır.”
-else - başqa
-“Is anyone else coming?” - “Başqa kimsə gəlirmi?”
-pass - keçmək
-“Can we pass by the grocery store?” - “Ərzaq mağazasının yanından keçə bilərikmi?”
-former - keçmiş
-“She was my former housemate.” - “O, mənim keçmiş ev yoldaşımdı.”
-sell - satmaq
-“We can sell your old couch online.” - “Köhnə divanını onlayn sata bilərik.”
-major - böyük
-“It’s a major issue for the project.” - “Bu, layihə üçün böyük bir problemdir.”
-sometimes - bəzən
-“Sometimes I forget to turn off the porch lights.” - “Bəzən eyvan işıqlarını söndürməyi unuduram.”
-require - tələb etmək
-“They’ll require you to show your I.D.” - “Onlar sizdən şəxsiyyət vəsiqənizi göstərməyi tələb edəcəklər.”
-along - boyunca
-“Can I tag along your road trip?” - “Yol səfərində sənə qoşula bilərəmmi?”
-development - inkişaf
-“This news development is really interesting.” - “Bu xəbər inkişafı həqiqətən maraqlıdır.”
-themselves - özləri
-“They can take care of themselves.” - “Onlar özləri qayğı göstərə bilərlər.”
-report - hesabat
-“I read her report and it was great!” - “Onun hesabatını oxudum və əla idi!”
-role - rol
-“She’s going to play the role of Elsa.” - “O, Elza rolunu oynayacaq.”
-better - daha yaxşı
-“Your singing has gotten so much better!” - “Sənin oxumağın daha yaxşı olub!”
-economic - iqtisadi
-“Some countries are facing an economic crisis.” - “Bəzi ölkələr iqtisadi böhranla üzləşir.”
 effort - səy
 “The government must make an effort to solve this.” - “Hökumət bunu həll etmək üçün səy göstərməlidir.”
 up - yuxarı
@@ -2002,3 +1684,321 @@ continue – davam etmək
 “Can we continue working tomorrow?” – “Sabah işə davam edə bilərikmi?”
 set – qurmaq
 “Great let me set an appointment for you.” – “Yaxşı, sizin üçün görüş təyin etməyimə icazə verin.”
+later – sonra
+“I’ll finish it later.” – “Mən bunu sonra bitirəcəyəm.”
+community – icma
+“Our community is very tight knit.” – “Bizim icmamız çox bağlıdır.”
+much – çox
+“There’s so much to learn in the English language.” – “İngilis dilində öyrəniləcək çox şey var.”
+name – ad
+“What’s your name?” – “Adınız nədir?”
+five – beş
+“I can give you five reasons why you need to watch that video.” – “Bu videoya niyə baxmalı olduğunuz barədə beş səbəb verə bilərəm.”
+once – bir dəfə
+“I once had a puppy named Bark.” – “Bir dəfə Bark adlı bir balam var idi.”
+white – ağ
+“I love my white sneakers.” – “Ağ idman ayaqqabılarımı sevirəm.”
+least – ən azı
+“She’s the least productive among all the employees.” – “O, bütün işçilər arasında ən az məhsuldar olanıdır.”
+president – prezident
+“She was our class president back in high school.” – “O, orta məktəbdə sinif prezidentimiz idi.”
+learn – öyrənmək
+“I’d love to learn more about the English language.” – “İngilis dili haqqında daha çox öyrənmək istərdim.”
+real – həqiqi
+“What is her real name?” – “Onun həqiqi adı nədir?”
+change – dəyişmək
+“What can we change so that things will get better?” – “İşlər daha yaxşı olması üçün nəyi dəyişə bilərik?”
+team – komanda
+“They hired a team to do the design of their new office.” – “Yeni ofislərinin dizaynını etmək üçün bir komanda işə götürdülər.”
+minute – dəqiqə
+“She’s laughing every minute of every day.” – “O, hər gün hər dəqiqə gülür.”
+best – ən yaxşı
+“This is the best potato salad I’ve ever tasted.” – “Bu, dadına baxdığım ən yaxşı kartof salatıdır.”
+several – bir neçə
+“I have several old clothes I need to donate.” – “Bağışlamaq üçün bir neçə köhnə paltarım var.”
+idea – fikir
+“It was your idea to go to the beach remember?” – “Çimərliyə getmək sənin fikrin idi, xatırlayırsanmı?”
+kid – uşaq
+“I loved that toy when I was a kid.” – “Uşaq ikən bu oyuncağı çox sevirdim.”
+body – bədən
+“She worked out hard to achieve a toned body.” – “O, tonlu bədən əldə etmək üçün çox çalışdı.”
+information – məlumat
+“This is the information I need.” – “Bu, mənim ehtiyacım olan məlumatdır.”
+nothing – heç nə
+“There’s nothing we can do now.” – “İndi edə biləcəyimiz heç nə yoxdur.”
+ago – əvvəl
+“Three years ago I visited Japan for the first time.” – “Üç il əvvəl Yaponiyaya ilk dəfə ziyarət etdim.”
+right – doğru
+“You’re right I want to go back there.” – “Haqlısan, mən ora qayıtmaq istəyirəm.”
+lead – aparmaq
+“Just lead the way and I’ll follow.” – “Yolu göstər, mən izləyəcəm.”
+social – sosial
+“I feel awkward in these social gatherings.” – “Bu sosial toplantılarda özümü qəribə hiss edirəm.”
+understand – başa düşmək
+“I understand how you feel.” – “Sənin necə hiss etdiyini başa düşürəm.”
+whether – istər
+“Whether in big groups or small groups I always feel a little shy at first.” – “Böyük qruplarda və ya kiçik qruplarda olsam da, əvvəlcə həmişə bir az utancaq oluram.”
+back – geri
+“Looking back I knew I was always an introvert.” – “Geri baxanda həmişə introvert olduğumu bilirdim.”
+watch – izləmək
+“Let’s watch the sun set on the horizon.” – “Gəlin günəşin üfüqdə batmasını izləyək.”
+together – birlikdə
+“They’re together now.” – “Onlar indi birlikdədirlər.”
+follow – izləmək
+“I’ll follow you home.” – “Mən səni evə izləyəcəm.”
+around - ətrafında
+“You’ll always have me around.” - “Sən həmişə məni ətrafında görəcəksən.”
+parent - valideyn
+“Every parent is trying hard and doing their best.” - “Hər bir valideyn əlindən gələni edir.”
+only - yalnız
+“You are only allowed to go out today.” - “Sən bu gün yalnız çölə çıxa bilərsən.”
+stop - dayanmaq
+“Please stop that.” - “Zəhmət olmasa, onu dayandır.”
+face - üz
+“Why is your face so red?” - “Niyə üzün belə qırmızıdır?”
+anything - hər şey
+“You can ask me for anything.” - “Məndən hər şeyi soruşa bilərsən.”
+create - yaratmaq
+“Did you create that presentation? It was so good.” - “Bu təqdimatı sən yaratdın? Çox yaxşı idi.”
+public - ictimai
+“This is public property.” - “Bu, ictimai mülkiyyətdir.”
+already - artıq
+“I already asked him to resend his report.” - “Artıq ondan hesabatını yenidən göndərməsini xahiş etmişəm.”
+speak - danışmaq
+“Could you speak a little louder?” - “Bir az yüksək səslə danışa bilərsən?”
+others - başqaları
+“The others haven’t arrived yet.” - “Başqaları hələ gəlməyib.”
+read - oxumaq
+“I read somewhere that this house is haunted.” - “Bir yerdə oxudum ki, bu evdə cinlər var.”
+level - səviyyə
+“What level are you in that game?” - “O oyunda hansı səviyyədəsən?”
+allow - icazə vermək
+“Do you allow your kids to play outside the house?” - “Uşaqlarınıza evin kənarında oynamağa icazə verirsiniz?”
+add - əlavə etmək
+“Is it okay if we add a bit of sugar to the tea?” - “Çaya bir az şəkər əlavə etsək, olar?”
+office - ofis
+“Welcome to my office.” - “Ofisimə xoş gəldiniz.”
+spend - xərcləmək
+“How much did you spend on your last shopping spree?” - “Son alış-verişinizə nə qədər pul xərclədiniz?”
+door - qapı
+“You left the door open.” - “Qapını açıq qoymusunuz.”
+health - sağlamlıq
+“You must take good care of your health.” - “Sağlamlığınıza yaxşı baxmalısınız.”
+person - şəxs
+“You are a good person.” - “Sən yaxşı bir şəxsən.”
+art - incəsənət
+“This is my work of art.” - “Bu, mənim incəsənət əsərimdir.”
+sure - əmin
+“Are you sure you want to do this alone?” - “Bunu tək etmək istədiyinizə əminsiniz?”
+such - belə
+“You are such a brave little boy.” - “Sən belə cəsur bir kiçik oğlansan.”
+war - müharibə
+“The war has finally ended.” - “Nəhayət, müharibə sona çatdı.”
+history - tarix
+“She is my history professor.” - “O, mənim tarix müəllimimdir.”
+party - partiya
+“Are you going to her party tonight?” - “Bu gecə onun partiyasına gedirsən?”
+within - daxilində
+“We support everyone within our small community.” - “Biz kiçik icmamız daxilində hər kəsi dəstəkləyirik.”
+grow - böyümək
+“We want everyone to grow and thrive in their careers.” - “Hər kəsin karyeralarında böyüməsini və inkişaf etməsini istəyirik.”
+result - nəticə
+“The result of this outreach program is amazing.” - “Bu tədbir proqramının nəticəsi möhtəşəmdir.”
+open - açıq
+“Are you open to teaching on weekends?” - “Həftə sonlarında dərs deməyə açıqmısınız?”
+change - dəyişmək
+“Where can we change her diaper?” - “Onun bezini harada dəyişə bilərik?”
+morning - səhər
+“It’s such a beautiful morning!” - “Çox gözəl bir səhərdir!”
+walk - gəzmək
+“Come take a walk with me.” - “Gəl mənimlə gəzməyə çıx.”
+reason - səbəb
+“You are the reason I came home.” - “Evimə gəlməyimin səbəbi sənsən.”
+low - aşağı
+“Her blood pressure has gotten really low.” - “Onun qan təzyiqi çox aşağı düşüb.”
+win - qazanmaq
+“We can win this match if we work together.” - “Birlikdə işləsək, bu matçı qazana bilərik.”
+research - tədqiqat
+“How is your research going?” - “Tədqiqatınız necə gedir?”
+girl - qız
+“That girl is in my class.” - “O qız mənim sinifimdedir.”
+guy - oğlan
+“I’ve seen that guy in school before.” - “O oğlanı məktəbdə görmüşəm.”
+early - erkən
+“I come to work so early every day.” - “Hər gün işə çox erkən gəlirəm.”
+food - qida
+“Let’s buy some food I’m hungry!” - “Gəl bir az qida alaq, acmışam!”
+before - əvvəl
+“Can I talk to you before you go home?” - “Evə getməzdən əvvəl səninlə danışa bilərəm?”
+moment - an
+“The moment she walked in the room her puppy started to jump and dance again.” - “O, otağa girən an, onun balaca iti yenidən tullanmağa və rəqs etməyə başladı.”
+himself - özü
+“He cooked this Turkey himself.” - “Bu hinduşkanı özü bişirdi.”
+air - hava
+“I am loving the cold night air here.” - “Burada soyuq gecə havasını sevirəm.”
+teacher - müəllim
+“You are the best teacher ever.” - “Sən indiyə qədər ən yaxşı müəllimsən.”
+force - məcbur etmək
+“Don’t force him to play with other kids.” - “Onu digər uşaqlarla oynamağa məcbur etmə.”
+offer - təklif etmək
+“Can I offer you a ride home?” - “Sizə evə getmək üçün maşın təklif edə bilərəm?”
+enough - kifayət
+“Boys that’s enough playing for today.” - “Oğlanlar, bu gün üçün kifayətdir.”
+both - hər ikisi
+“You both need to change into your sleep clothes now.” - “Hər ikiniz yatmaq üçün paltarlarınızı dəyişməlisiniz.”
+education - təhsil
+“I just want you to get the best education.” - “Sadəcə sizin ən yaxşı təhsili almanızı istəyirəm.”
+across - qarşısında
+“Your dog ran across the park.” - “Sənin itin parkın qarşısında qaçdı.”
+although - baxmayaraq ki
+“Although she felt tired she still couldn’t sleep.” - “Yorğun olmasına baxmayaraq, hələ də yata bilmədi.”
+remember - xatırlamaq
+“Do you think she will still remember me after ten years?” - “Onun on ildən sonra məni hələ də xatırlayacağını düşünürsən?”
+foot - ayaq
+“Her foot got caught in one of the ropes.” - “Onun ayağı iplərdən birinə ilişdi.”
+second - ikinci
+“This is the second time she got late this month.” - “Bu ay ikinci dəfə gecikib.”
+boy - oğlan
+“There’s a boy in her class who keeps pulling her hair.” - “Onun sinifində saçını çəkən bir oğlan var.”
+maybe - bəlkə
+“Maybe we can have ice cream for dessert.” - “Bəlkə desert üçün dondurma yeyərik.”
+toward - tərəfə
+“He took a step toward her.” - “O, ona tərəf bir addım atdı.”
+able - bacarığı olmaq
+“Will you be able to send me your report today?” - “Bu gün mənə hesabatını göndərə biləcəksənmi?”
+age - yaş
+“What is the average marrying age these days?” - “Bu günlərdə ortalama evlənmə yaşı nə qədərdir?”
+off - kənara
+“The cat ran off with the dog.” - “Pişik it ilə kənara qaçdı.”
+policy - siyasət
+“They have a generous return policy.” - “Onların səxavətli qaytarma siyasəti var.”
+everything - hər şey
+“Everything is on sale.” - “Hər şey satışdadır.”
+love - sevgi
+“I love what you’re wearing!” - “Geyindiyinizi çox sevirəm!”
+process - proses
+“Wait give me time to process everything you’re telling me.” - “Gözləyin, dediklərinizi işləmək üçün mənə vaxt verin.”
+music - musiqi
+“I love music.” - “Mən musiqini sevirəm.”
+including - daxil olmaqla
+“Around 20 people attended including Bob and Beth.” - “Bob və Beth daxil olmaqla təxminən 20 nəfər iştirak etdi.”
+consider - nəzərə almaq
+“I hope you consider my project proposal.” - “Ümid edirəm layihə təklifimi nəzərə alırsınız.”
+appear - görünmək
+“How did that appear out of nowhere?” - “Bu heç yerdən necə göründü?”
+actually - əslində
+“I’m actually just heading out.” - “Əslində mən indi çıxıram.”
+buy - almaq
+“I’m going to buy these shoes.” - “Bu ayaqqabıları alacam.”
+probably - yəqin
+“He’s probably still asleep.” - “Yəqin ki, hələ də yatır.”
+human - insan
+“Give him a break he is only human.” - “Ona fasilə verin, o yalnız insandır.”
+wait - gözləmək
+“Is it alright if you wait for a few minutes?” - “Bir neçə dəqiqə gözləsəniz, problem olmaz?”
+serve - xidmət etmək
+“This blow dryer has served me well for years.” - “Bu fen illərdir mənə yaxşı xidmət edir.”
+market - bazar
+“Let’s visit the Sunday market.” - “Gəlin bazar günü bazarına gedək.”
+die - ölmək
+“I don’t want my cat to die let’s take him to the vet please.” - “Mənim pişiyim ölməsini istəmirəm, xahiş edirəm onu baytara aparaq.”
+send - göndərmək
+“Please send the package to my address.” - “Paketimi mənim ünvanıma göndərin, zəhmət olmasa.”
+expect - gözləmək
+“You can’t expect much from their poor service.” - “Onların zəif xidmətindən çox şey gözləmək olmaz.”
+home - ev
+“I can’t wait to go home!” - “Evdən çıxmağı səbirsizliklə gözləyirəm!”
+sense - hiss etmək
+“I did sense that something was not okay.” - “Bir şeyin qaydasında olmadığını hiss etdim.”
+build - tikmək
+“He is going to build his dream house.” - “O, arzu evini tikmək niyyətindədir.”
+stay - qalmaq
+“You can stay with me for a few weeks.” - “Bir neçə həftə mənimlə qala bilərsən.”
+fall - yıxılmaq
+“Be careful you might fall.” - “Ehtiyatlı ol, yıxıla bilərsən.”
+oh - oh
+“Oh no I left my phone at home!” - “Oh yox, telefonumu evdə unutmuşam!”
+nation - millət
+“We have to act as one nation.” - “Bir millət kimi hərəkət etməliyik.”
+plan - plan
+“What’s your plan this time?” - “Bu dəfə planın nədir?”
+cut - kəsmək
+“Don’t cut your hair.” - “Saçlarını kəsmə.”
+college - kollec
+“We met in college.” - “Biz kollec-də tanış olduq.”
+interest - maraq
+“Music is an interest of mine.” - “Musiqi mənim maraqlarımdandır.”
+death - ölüm
+“Death is such a heavy topic for me.” - “Ölüm mənim üçün çox ağır mövzudur.”
+course - kurs
+“What course did you take up in college?” - “Kollec-də hansı kursu götürdün?”
+someone - kimsə
+“Is there someone who can go with you?” - “Səninlə gedə biləcək kimsə varmı?”
+experience - təcrübə
+“What an exciting experience!” - “Nə qədər həyəcanverici təcrübədir!”
+behind - arxasında
+“I’m scared to check what’s behind that door.” - “O qapının arxasında nə olduğunu yoxlamaqdan qorxuram.”
+reach - çatmaq
+“I can’t reach him he won’t answer his phone.” - “Ona çatmıram, telefonuna cavab vermir.”
+local - yerli
+“This is a local business.” - “Bu yerli bir işdir.”
+kill - öldürmək
+“Smoking can kill you.” - “Siqaret çəkmək səni öldürə bilər.”
+six - altı
+“I have six books about Psychology.” - “Psixologiya haqqında altı kitabım var.”
+remain - qalmaq
+“These remain on the top shelf.” - “Bunlar üst rəfdə qalır.”
+effect - təsir
+“Wow the effect of that mascara is great!” - “Vay, o tuşun təsiri əladır!”
+use - istifadə etmək
+“Can I use your phone?” - “Telefonundan istifadə edə bilərəmmi?”
+yeah - hə
+“Yeah he did call me earlier.” - “Hə, o mənə əvvəl zəng etmişdi.”
+suggest - təklif etmək
+“He did suggest that to me.” - “O, bunu mənə təklif etdi.”
+class - sinif
+“We were in the same English class.” - “Biz eyni ingilis dili sinifində idik.”
+control - nəzarət
+“Where’s the remote control?” - “Uzaqdan idarəetmə haradadır?”
+raise - tərbiyə etmək
+“It’s so challenging to discipline kids these days.” - “Bu günlərdə uşaqları tərbiyə etmək çox çətindir.”
+care - qayğı göstərmək
+“I don’t care about what you think.” - “Sənin nə düşündüyün mənə maraqlı deyil.”
+perhaps - bəlkə
+“Perhaps we can arrive at a compromise.” - “Bəlkə bir güzəştə gələ bilərik.”
+little - az
+“There’s a little bird outside my window.” - “Pəncərəmin kənarında az bir quş var.”
+late - gec
+“I am running late for my doctor’s appointment.” - “Həkim görüşümə gecikmişəm.”
+hard - çətin
+“That test was so hard.” - “O test çox çətin idi.”
+field - sahə
+“He’s over there by the soccer field.” - “O, futbol sahəsinin yanında oradadır.”
+else - başqa
+“Is anyone else coming?” - “Başqa kimsə gəlirmi?”
+pass - keçmək
+“Can we pass by the grocery store?” - “Ərzaq mağazasının yanından keçə bilərikmi?”
+former - keçmiş
+“She was my former housemate.” - “O, mənim keçmiş ev yoldaşımdı.”
+sell - satmaq
+“We can sell your old couch online.” - “Köhnə divanını onlayn sata bilərik.”
+major - böyük
+“It’s a major issue for the project.” - “Bu, layihə üçün böyük bir problemdir.”
+sometimes - bəzən
+“Sometimes I forget to turn off the porch lights.” - “Bəzən eyvan işıqlarını söndürməyi unuduram.”
+require - tələb etmək
+“They’ll require you to show your I.D.” - “Onlar sizdən şəxsiyyət vəsiqənizi göstərməyi tələb edəcəklər.”
+along - boyunca
+“Can I tag along your road trip?” - “Yol səfərində sənə qoşula bilərəmmi?”
+development - inkişaf
+“This news development is really interesting.” - “Bu xəbər inkişafı həqiqətən maraqlıdır.”
+themselves - özləri
+“They can take care of themselves.” - “Onlar özləri qayğı göstərə bilərlər.”
+report - hesabat
+“I read her report and it was great!” - “Onun hesabatını oxudum və əla idi!”
+role - rol
+“She’s going to play the role of Elsa.” - “O, Elza rolunu oynayacaq.”
+better - daha yaxşı
+“Your singing has gotten so much better!” - “Sənin oxumağın daha yaxşı olub!”
+economic - iqtisadi
+“Some countries are facing an economic crisis.” - “Bəzi ölkələr iqtisadi böhranla üzləşir.”
